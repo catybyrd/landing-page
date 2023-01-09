@@ -152,13 +152,14 @@
    * -- PRICING TABLE BUTTON --
    */
   .button-choose {
-    border: 1px solid #ccc;
-    background: #fff;
-    color: #333;
+    border: 1px solid black;
+    background: #ff8c00;
+    color: black;
     border-radius: 2em;
     font-weight: bold;
     position: relative;
     bottom: -1.5em;
+    padding: 14px 28px
   }
   
   .footer {
